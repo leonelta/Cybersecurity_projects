@@ -20,5 +20,5 @@ To understand ransomware behaviour and build practical incident response skills.
 ## Disclaimer
 This project is for educational purposes only.
 
-## Authors
-Ketcha Karen & team
+## Author
+Ketcha Karen
